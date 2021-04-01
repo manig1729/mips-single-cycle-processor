@@ -1,5 +1,5 @@
 /* 
-    Testbench for the Assignment 3 submission
+    Testbench for processor
 
     Author - Manikandan Gunaseelan
 

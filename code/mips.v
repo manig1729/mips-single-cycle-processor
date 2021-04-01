@@ -1,7 +1,7 @@
 /*
     Main MIPS module for the processor
 
-    Author : Manikandan Gunaseelan, 2018AAPS0246G
+    Author : Manikandan Gunaseelan
 
     This module defines all the circuit connections of the processor.
     For the circuit diagram and brief overviews of each of the modules,

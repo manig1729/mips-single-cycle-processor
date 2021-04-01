@@ -1,8 +1,8 @@
 /* 
-	This is the final submission for the previous floating point adder assignment
+	This is the combined code from my floating-point-adder repository
 	Only the testbench module has been removed
 
-	Author : Manikandan Gunaseelan, 2018AAPS0246G
+	Author : Manikandan Gunaseelan
 */
 
 /* 
