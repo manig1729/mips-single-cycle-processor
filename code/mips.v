@@ -5,12 +5,12 @@
 
     This module defines all the circuit connections of the processor.
     For the circuit diagram and brief overviews of each of the modules,
-    do go through the report.
+    do go through the report
 
     Most of the connections are self-explanatory and comments have been
-    provided wherever necessary.
+    provided wherever necessary
 
-    To simulate this, please run the mipsTb module.
+    To simulate this, please run the mipsTb module
 */
 
 // The following include statements are only needed for GTKWave + iverilog simulation
