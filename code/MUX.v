@@ -1,7 +1,5 @@
 /*
 	5 bit and 32 bit MUX modules
-
-	There are a total of 6 MUXes in the processor design
 */
 
 module MUX_5bit (a, b, Sel, mux_out);

@@ -1,4 +1,5 @@
 /*
+    32 bit adder
 	Used for adding the branch offset to PC + 4
 */
 

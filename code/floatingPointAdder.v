@@ -1,5 +1,5 @@
 /* 
-	This is the combined code from my floating-point-adder repository
+	This is the code from my floating-point-adder repository
 	Only the testbench module has been removed
 
 	Author : Manikandan Gunaseelan

@@ -1,5 +1,5 @@
 /* 
-    Testbench for processor
+    Testbench for mips.v
 
     Author - Manikandan Gunaseelan
 
@@ -8,7 +8,7 @@
     the uut section in the simulation window and choose the 
     waveforms needed
 
-    You can see where this can be done on ModelSim and GTKWave
+    You can see how this can be done on ModelSim and GTKWave
     on page 3 of the report
 
     The instructions loaded by default are the ones used in the 
@@ -33,7 +33,7 @@ module mipsTb;
       $dumpvars(0, mipsTb);             // remove them if simulating on ModelSim
       clk=0; rst=1;
 		  #4  rst=0;
-		  #100 $finish;
+		  #100 $finish;                 // Not needed in ModelSim
     end
 
 endmodule
